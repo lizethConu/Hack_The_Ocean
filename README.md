@@ -8,4 +8,4 @@ Preparar el ambiente de trabajo
 4.-Instalar Nodemailer
 
 Link de proyecto:
-https://lizethconu.github.io/Hack_The_Ocean/app/html/index.js
+https://lizethconu.github.io/Hack_The_Ocean/app/html/index.html
